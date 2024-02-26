@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Display listening sockets and PID of the program it belongs to
+
+ss -ltnp
